@@ -16,7 +16,7 @@ I'm a software engineer who loves building things close to the metal — systems
 
 ### // what I work with
 
-`Go` `C` `TCP/IP` `HTTP` `Systems Programming` `Backend Engineering` `Concurrency` `Linux` `Unix Internals` `Network Protocols`
+`Go` `C` `Typescript` `Node.js` `TCP/IP` `HTTP` `Systems Programming` `Backend Engineering` `Concurrency` `Linux` `Unix Internals` `Network Protocols`
 
 ---
 
@@ -42,21 +42,10 @@ I'm a software engineer who loves building things close to the metal — systems
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=alex-njaiya&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=alex-njaiya&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=alex-njaiya&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=alex-njaiya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alex-njaiya&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=5DCAA5&icon_color=AFA9EC" />
-</p>
 
 
