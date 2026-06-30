@@ -45,7 +45,3 @@ I'm a software engineer who loves building things close to the metal — systems
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=alex-njaiya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
