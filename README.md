@@ -26,7 +26,7 @@ I'm a software engineer who loves building things close to the metal — systems
 |---|---|---|
 | **shell** | A Unix shell from scratch — lexer, parser, process groups, job control, the whole thing | ✅ shipped |
 | **http-from-tcp** | HTTP/1.1 over raw TCP sockets — no `net/http`, just bytes on a wire | ✅ shipped |
-| **Aviator/Plinko** | Crash game style like plinko or aviator with wallet logic, game rounds and mechanics using `go's native concurrency features` | ✅ shipped |
+| **Aviator/Plinko** | Crash game style like plinko or aviator with wallet logic, game rounds, fairness math and game mechanics using `go's native concurrency features` | 🟢 active |
 
 
 ---
